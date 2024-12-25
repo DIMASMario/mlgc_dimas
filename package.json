@@ -12,16 +12,7 @@
     "lint:check": "eslint .",
     "lint:fix": "eslint --fix ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/raihanromzi/backend-server-mlgc.git"
-  },
-  "author": "Raihan Romzi R",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/raihanromzi/backend-server-mlgc/issues"
-  },
-  "homepage": "https://github.com/raihanromzi/backend-server-mlgc#readme",
+  
   "dependencies": {
     "@google-cloud/firestore": "^7.11.0",
     "@hapi/hapi": "^21.3.9",

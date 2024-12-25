@@ -13,3 +13,4 @@ const storeData = async (id, data) => {
 };
 
 export default storeData;
+
